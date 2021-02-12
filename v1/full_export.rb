@@ -1,5 +1,4 @@
 require 'json'
-require 'pry'
 
 date=Time.now.strftime("%Y%m%d")
 key=ARGV[0]
